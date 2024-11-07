@@ -1,5 +1,7 @@
 # Spectral-Clustering
 TP
+|![cluster1](Capture d’écran 2024-11-07 à 11.10.11.png)| ![cluster2](Capture d’écran 2024-11-07 à 11.10.55.png)| 
+
 In this exercise, we implement spectral clustering and try it on diffent kinds of data:
 
 * N-blob: Random points in $\mathbb{R}^2$ according to N Gaussian distributions with different means;
