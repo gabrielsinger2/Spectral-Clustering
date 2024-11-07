@@ -1,6 +1,6 @@
 # Spectral-Clustering
 TP
-|![cluster1](moon_clustering)| ![cluster2](Capture d’écran 2024-11-07 à 11.10.55.png)| 
+ ![cluster2](smile_head.png)| 
 
 In this exercise, we implement spectral clustering and try it on diffent kinds of data:
 
@@ -14,3 +14,5 @@ We use the following similarity:
 $$d(x_i, x_j) = \exp\left(-\frac{||x_i-x_j||_2^2}{2\sigma^2}\right)$$
 
 Using this similarity, we compute the weight matrix W representing the graph, compute the graph Laplacian L and finally use its eigenvectors for clustering.
+
+|![cluster1](moon_clustering)|
