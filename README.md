@@ -1,6 +1,6 @@
 # Spectral-Clustering
 TP
-|![cluster1](Capture d’écran 2024-11-07 à 11.10.11.png)| ![cluster2](Capture d’écran 2024-11-07 à 11.10.55.png)| 
+|![cluster1](moon_clustering)| ![cluster2](Capture d’écran 2024-11-07 à 11.10.55.png)| 
 
 In this exercise, we implement spectral clustering and try it on diffent kinds of data:
 
